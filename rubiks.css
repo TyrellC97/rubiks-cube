@@ -1,0 +1,64 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+
+#cube { 
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-left: 20px;
+}
+
+#sq1{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+#sq2{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+#sq3{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+}
+#sq4{
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+}
+#sq5{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+}
+#sq6{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+}
+#sq7{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+#sq8{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+#sq9{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+}
